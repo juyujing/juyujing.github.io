@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yujing Ju" # "Your Name / Site Title"
+title                    : # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yujing Ju"
 description              : &description "personal description"
 url                      : https://juyujing.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,15 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Yujing Ju"
-  pronouns         : "he/his" # example: "she/her"  
-  bio              : "I am a student at Ocean University of China studying Computer Science."
-  location         : "Earth"
-  employer         : "Ocean University of China"
-  uri              : https://juyujing.github.io/# URL
-  email            : "juyujing@stu.ouc.edu.cn" 
+  avatar: "profile.png"
+  name: "Yujing Ju"
+  pronouns: "he/his" # example: "she/her"
+  bio: "I am a student at Ocean University of China studying Computer Science."
+  location: "1299 Binghai Avenue, Huangdao, Qingdao, Shandong, China, 266100"
+  employer: "Ocean University of China"
+  uri: "https://juyujing.github.io/"
+  email: "juyujing@stu.ouc.edu.cn"
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -47,14 +48,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "dyodn2" # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -62,12 +63,13 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : "dyodn" # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
+  wechat           : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
