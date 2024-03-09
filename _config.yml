@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar: "profile.png"
   name: "Yujing Ju"
-  pronouns: "he/his" # example: "she/her"
+  pronouns: # example: "she/her"
   bio: "I am a student at Ocean University of China studying Computer Science."
   location: "1299 Binghai Avenue, Huangdao, Qingdao, Shandong, China, 266100"
   employer: "Ocean University of China"
