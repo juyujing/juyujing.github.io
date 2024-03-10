@@ -25,6 +25,6 @@ Skills
 * Embedded Development
   * STM32
   * Raspberry Pi
-  * Arduino
+  * Arduino 
 
-[Download Resume](/_publications/Resume.pdf){: .btn .btn--success}
+[Download Resume](/juyujing.github.io/_publications/Resume.pdf){: .btn .btn--success}
