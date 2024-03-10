@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yujing Ju" # "Your Name / Site Title"
+title                    : "Yujing Ju/About" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yujing Ju" 
 description              : &description "a student at Ocean University of China studying Computer Science"
