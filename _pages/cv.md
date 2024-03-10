@@ -26,3 +26,4 @@ Skills
   * STM32
   * Raspberry Pi
   * Arduino
+[Download Resume](/path/to/your/resume.pdf){: .btn .btn--success}
