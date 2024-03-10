@@ -27,4 +27,4 @@ Skills
   * Raspberry Pi
   * Arduino 
 
-[Download Resume]((https://raw.githubusercontent.com/juyujing/juyujing.github.io/_publications/Resume.pdf){: .btn .btn--success}
+[Download Resume](https://raw.githubusercontent.com/juyujing/juyujing.github.io/_publications/Resume.pdf){: .btn .btn--success}
