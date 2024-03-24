@@ -18,7 +18,7 @@ Education
 Skills
 ======
 * Programming
-  * Language: Python, C, C++, Java, HTML, Javascript
+  * Language: Python, C, C++, Java, HTML, CSS, Javascript
   * Software Skill: Matlab, MySQL
   * Technical Skill: Markdown, Latex
   * Data Science Skill: Pytorch, Numpy, Pandas, Scipy, Tensorflow
