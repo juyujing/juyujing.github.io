@@ -21,7 +21,7 @@ repository               : "juyujing/juyujing.github.io" # "academicpages/academ
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   name: "Yujing Ju"
   pronouns: # example: "she/her"
   bio: "I am a student at Ocean University of China studying Computer Science."
