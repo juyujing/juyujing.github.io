@@ -26,9 +26,8 @@ author:
   pronouns: # example: "she/her"
   bio: "An Undergraduate student majoring in Robotics at Heriot-Watt University and Computer Science at  Ocean University of China."
   location: "Edinburgh, SCT, UK"
-  employer: |
-    Heriot-Watt University
-    & Ocean University of China
+  employer:>
+    Heriot-Watt University\n & Ocean University of China
   uri: "https://juyujing.github.io/"
   email: "yj2012@hw.ac.uk"
 
