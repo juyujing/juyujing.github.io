@@ -24,9 +24,11 @@ author:
   avatar: "profile.png"
   name: "Yujing Ju"
   pronouns: # example: "she/her"
-  bio: "I am a student at Ocean University of China studying Computer Science."
-  location: "Edinburgh, Scotland, United Kingdom"
-  employer: "Heriot-Watt University &\nOcean University of China"
+  bio: "An Undergraduate student majoring in Robotics at Heriot-Watt University and Computer Science at  Ocean University of China."
+  location: "Edinburgh, SCT, UK"
+  employer: |
+    Heriot-Watt University 
+    & Ocean University of China
   uri: "https://juyujing.github.io/"
   email: "yj2012@hw.ac.uk"
 
