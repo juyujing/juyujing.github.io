@@ -1,3 +1,6 @@
+### _data/navigation.yml: navigation dock
+### _pages: pages content file
+### _config.yml: basic info
 
 # Academic Pages
 
