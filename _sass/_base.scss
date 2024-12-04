@@ -227,3 +227,17 @@ figcaption {
 body {
   animation: fadeIn 0.5s ease-in-out;
 }
+
+.navbar {
+  background-color: #f8f9fa;
+  font-family: "Roboto", sans-serif;
+  a {
+    color: #333;
+    text-decoration: none;
+    padding: 10px 15px;
+    &:hover {
+      color: #007bff;
+      border-bottom: 2px solid #007bff;
+    }
+  }
+}
