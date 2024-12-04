@@ -446,3 +446,31 @@ img {
 body {
   animation: fadeIn 0.5s ease-in-out;
 }
+
+.social-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+
+  .btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+
+    &.btn-github {
+      background-color: #333;
+    }
+    &.btn-linkedin {
+      background-color: #0077b5;
+    }
+    &.btn-youtube {
+      background-color: #ff0000;
+    }
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
