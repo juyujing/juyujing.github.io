@@ -25,7 +25,7 @@ Here are a few of my key research contributions:
    Introduced a hypergraph convolutional network that captures higher-order interactions in group-buying scenarios.  
 2. [Hexapod Robot for Object Grasping](https://github.com/juyujing/Capturer)  
    Designed a lightweight, bio-inspired hexapod robot with advanced motion planning and vision-based recognition.  
-3. [Open Source GNN Optimization](https://github.com/GNNIP/GNNIP)  
+3. [Open Source GNNIP Library](https://github.com/GNNIP/GNNIP)  
    Contributed to a project enhancing graph neural network deployment and robustness.  
 4. [Academic Recommendation System](https://github.com/juyujing/Graduation-Project)  
    Developed a framework combining spectrum-based directed graph convolution and heterogeneous attention networks.
