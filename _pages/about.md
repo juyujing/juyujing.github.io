@@ -38,4 +38,18 @@ I'm Yujing Ju (*pronounced as: Yoo-jing Joo [tɕy˥ y˧˥ tɕiŋ˥˩]*), current
 ## Beyond Academics
 Beyond my technical pursuits, I am passionate about applying interdisciplinary research to solve real-world problems, particularly in recommendation systems, robotics, and AI for healthcare. I believe in the transformative power of technology to enhance lives and aim to contribute meaningfully to cutting-edge developments in these fields.
 
-[GitHub](https://github.com/juyujing) | [LinkedIn](https://www.linkedin.com/in/juyujing) | [YouTube](https://www.youtube.com/user/dyodn)
+## Connect with Me
+<div style="margin: 10px 0;">
+  <a href="https://github.com/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #24292e; border-radius: 5px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+    GitHub: juyujing
+  </a>
+  <a href="https://www.linkedin.com/in/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #0077b5; border-radius: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+    LinkedIn: Yujing Ju
+  </a>
+  <a href="https://www.youtube.com/user/dyodn" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #FF0000; border-radius: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+    YouTube: dyodn
+  </a>
+</div>
