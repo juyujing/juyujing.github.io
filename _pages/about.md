@@ -9,10 +9,7 @@ redirect_from:
 
 I'm Yujing Ju (*pronounced as: Yoo-jing Joo [tɕy˥ y˧˥ tɕiŋ˥˩]*), currently pursuing a dual degree in Robotics at Heriot-Watt University and Computer Science at Ocean University of China. My academic and professional journey is defined by a passion for interdisciplinary research, combining machine learning, graph mining, and robotics to solve complex real-world problems.
 
-## About Me
-With hands-on experience in developing scalable machine learning models, I specialize in applying **graph neural networks (GNNs)** and **AI-driven robotics** to fields like recommendation systems and biomimetic engineering. My contributions include publishing innovative research on group recommendation systems, optimizing path-planning algorithms for UAVs, and designing bio-inspired robots.
-
-## Highlights of My Work
+## Highlights
 - **Hypergraph Neural Networks**: Enhanced group recommendation accuracy by 5% using innovative hypergraph frameworks.  
 - **Directed Graph Neural Networks**: Improved academic citation recommendations by capturing overlooked directional relationships.  
 - **Biomimetic Robotics**: Developed a hexapod robot capable of efficient locomotion and object grasping using YOLO-based detection and motion planning.  
@@ -30,7 +27,7 @@ Here are a few of my key research contributions:
 4. [Academic Recommendation System](https://github.com/juyujing/Graduation-Project)  
    Developed a framework combining spectrum-based directed graph convolution and heterogeneous attention networks.
 
-## Skills Overview
+## Skills
 While my CV contains a full breakdown of skills, here's a brief snapshot:
 - **Machine Learning**: Expertise in PyTorch, TensorFlow, and Scikit-learn.  
 - **Robotics Development**: Proficient in ROS, SLAM (VINS-Fusion, FAST-LIO), and NVIDIA Jetson platforms.  
