@@ -7,38 +7,44 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yujing Ju (*pronounced as: Yoo-jing Joo [tɕy˥ y˧˥ tɕiŋ˥˩]*), currently an undergraduate student pursuing a dual degree in Robotics at Heriot-Watt University and Computer Science at Ocean University of China. My academic and professional journey has been defined by diverse interdisciplinary projects and a strong foundation in machine learning, graph mining, and robotics.
+I'm Yujing Ju (*pronounced as: Yoo-jing Joo [tɕy˥ y˧˥ tɕiŋ˥˩]*), currently pursuing a dual degree in Robotics at Heriot-Watt University and Computer Science at Ocean University of China. My academic and professional journey is defined by a passion for interdisciplinary research, combining machine learning, graph mining, and robotics to solve complex real-world problems.
 
-## Research Projects
+## About Me
+With hands-on experience in developing scalable machine learning models, I specialize in applying **graph neural networks (GNNs)** and **AI-driven robotics** to fields like recommendation systems and biomimetic engineering. My contributions include publishing innovative research on group recommendation systems, optimizing path-planning algorithms for UAVs, and designing bio-inspired robots.
 
-### **Graph Neural Networks for Recommendation Systems**
-- Designed a [Hypergraph Convolutional Network-based framework](https://github.com/juyujing/HyperGCN) for group recommendation tasks, introducing innovative methods to capture higher-order interactions between users and items. This model improved the accuracy of the state-of-the-art MGBR model by over 5% in user recommendation tasks.
-- Current research focuses on [directed and heterogeneous graph neural networks](https://github.com/juyujing/Graduation-Project) to enhance academic citation recommendations. Proposed a novel framework combining spectrum-based directed graph convolution and heterogeneous graph attention mechanisms.
+## Highlights of My Work
+- **Hypergraph Neural Networks**: Enhanced group recommendation accuracy by 5% using innovative hypergraph frameworks.  
+- **Directed Graph Neural Networks**: Improved academic citation recommendations by capturing overlooked directional relationships.  
+- **Biomimetic Robotics**: Developed a hexapod robot capable of efficient locomotion and object grasping using YOLO-based detection and motion planning.  
+- **Open Source Contributions**: Collaborated on [graph model robustness](https://github.com/GNNIP/GNNIP) as part of a Florida State University research internship.
 
-### **Robotics and Biomimetic Systems**
-- Led the development of a [biomimetic hexapod robot](https://github.com/juyujing/Capturer) for visually-guided object grasping, integrating YOLO-based object detection with bio-inspired motion planning. This system utilized **Layer-Adaptive Magnitude Pruning** and CUDA optimization for real-time inference.
-- Designed versatile gaits inspired by ants and spiders, allowing the robot to adapt to complex terrains and perform efficient locomotion and manipulation.
+## My Projects
+Here are a few of my key research contributions:
 
-### **AI and UAV Optimization**
-- Optimized UAV path-planning algorithms and lightweight VIO systems during an internship focused on SLAM and AI applications for drones. Reconstructed deprecated libraries and developed efficient simulation environments using Unreal Engine and AirSim.
+1. [Hypergraph Neural Network for Group Recommendations](https://github.com/juyujing/HyperGCN)  
+   Introduced a hypergraph convolutional network that captures higher-order interactions in group-buying scenarios.  
+2. [Hexapod Robot for Object Grasping](https://github.com/juyujing/Capturer)  
+   Designed a lightweight, bio-inspired hexapod robot with advanced motion planning and vision-based recognition.  
+3. [Open Source GNN Optimization](https://github.com/GNNIP/GNNIP)  
+   Contributed to a project enhancing graph neural network deployment and robustness.  
+4. [Academic Recommendation System](https://github.com/juyujing/Graduation-Project)  
+   Developed a framework combining spectrum-based directed graph convolution and heterogeneous attention networks.
 
-### **Open Source Contribution**
-- As a research intern at [Florida State University's RAI Lab](https://yushundong.github.io), contributed to an [open-source GNN project](https://github.com/GNNIP/GNNIP) by refactoring and integrating models to enhance robustness and streamline deployment.
+## Skills Overview
+While my CV contains a full breakdown of skills, here's a brief snapshot:
+- **Machine Learning**: Expertise in PyTorch, TensorFlow, and Scikit-learn.  
+- **Robotics Development**: Proficient in ROS, SLAM (VINS-Fusion, FAST-LIO), and NVIDIA Jetson platforms.  
+- **Data Science Tools**: Familiarity with Pandas, Numpy, and Matlab.  
+- **Programming**: Advanced in Python, C, and C++.  
 
-## Technical Skills
-- **Programming Languages**: Python, C, C++, Java, HTML, CSS, JavaScript, PHP, Scala
-- **Machine Learning Frameworks**: PyTorch, TensorFlow, Scikit-learn, DGL
-- **Robotics Platforms**: ROS, SLAM algorithms (VINS-Fusion, FAST-LIO), NVIDIA Jetson
-- **Other Tools**: Matlab, MySQL, Hadoop, Spark, LaTeX, AirSim, Unreal Engine
+For a detailed skill list, visit my [CV page](/cv/).
 
-## Awards and Recognition
-- **Innovation and Entrepreneurship Scholarship**, 2022
-- **Outstanding Youth Volunteer Award**, 2022
-
-## Beyond Academics
-Beyond my technical pursuits, I am passionate about applying interdisciplinary research to solve real-world problems, particularly in recommendation systems, robotics, and AI for healthcare. I believe in the transformative power of technology to enhance lives and aim to contribute meaningfully to cutting-edge developments in these fields.
+## Recognition
+- **Innovation and Entrepreneurship Scholarship**, 2022  
+- **Outstanding Youth Volunteer Award**, 2022  
 
 ## Connect with Me
+Feel free to connect or explore my work through the following platforms:
 <div style="margin: 10px 0;">
   <a href="https://github.com/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #24292e; border-radius: 5px;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 20px; vertical-align: middle; margin-right: 8px;">
