@@ -319,22 +319,22 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
    ========================================================================== */
 
 /* 全局配色方案 */
-$text-color: #333;
-$primary-color: #6a11cb;
+$text-color: #333; /* 默认黑色或深灰色 */
+$primary-color: #6a11cb; /* 仅用于链接或按钮的主色 */
 $border-color: #e0e0e0;
 $background-color: #f9f9f9;
 $code-background-color: #f4f4f4;
 $global-transition: 0.3s ease;
 
 /* 标题样式 */
+/* 恢复默认标题颜色 */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
-  color: $primary-color;
+  color: $text-color; /* 使用文本颜色 */
   margin-bottom: 1rem;
   text-transform: capitalize;
 }
-
 h1 {
   font-size: 2.5rem;
   line-height: 1.2;
