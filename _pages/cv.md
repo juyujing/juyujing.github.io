@@ -11,9 +11,7 @@ redirect_from:
 Education
 ======
 * **B.S. in Computer Science**, Ocean University of China (2021 - 2025, expected)  
-  GPA: 3.45/4.0  
 * **B.S. in Robotics**, Heriot-Watt University (2021 - 2025, expected)  
-  GPA: 3.87/4.0  
 
 Research Experience
 ======
@@ -23,11 +21,11 @@ Research Experience
 - Enhanced academic citation recommendations by accurately modeling citation directionality.  
 [Project Link](https://github.com/juyujing/Graduation-Project)
 
-### **FSU Research Intern: Open Source GNN Optimization**  
+### **FSU Research Intern: Open Source Model Security Library**  
 **Florida State University** (June 2024 – Present)  
-- Refactored graph neural network models to ensure robustness and streamline deployment in security-related applications.  
+- Refactored graph neural network models to ensure robustness and streamline deployment in model security.  
 - Migrated deprecated dependencies to PyTorch/DGL environments.  
-[Lab Page](https://yushundong.github.io) | [Project Link](https://github.com/GNNIP/GNNIP)
+[Lab Page](https://yushundong.github.io//students/) | [Project Link](https://github.com/GNNIP/GNNIP)
 
 ### **Hypergraph Neural Networks for Group Recommendations**  
 **Ocean University of China** (June 2023 – Present)  
