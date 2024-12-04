@@ -25,7 +25,7 @@ Research Experience
 **Florida State University** (June 2024 – Present)  
 - Refactored graph neural network models to ensure robustness and streamline deployment in model security.  
 - Migrated deprecated dependencies to PyTorch/DGL environments.  
-[Lab Page](https://yushundong.github.io//students/) | [Project Link](https://github.com/GNNIP/GNNIP)
+[Lab Page](https://yushundong.github.io//students) | [Project Link](https://github.com/GNNIP/GNNIP)
 
 ### **Hypergraph Neural Networks for Group Recommendations**  
 **Ocean University of China** (June 2023 – Present)  
