@@ -18,6 +18,7 @@ Education
 
 ---
 
+
 Research Experience
 ======
 ### **Honours Dissertation: Graph Neural Networks for Academic Recommendation**  
@@ -51,13 +52,17 @@ Research Experience
 - Enhanced UAV navigation algorithms and simulation environments with SLAM-based approaches.  
 - Developed lightweight VIO systems using binocular cameras and IMU sensors.  
 
+---
+
 Key Skills
 ======
 * **Programming Languages**: Python, C, C++, Java, HTML, CSS, JavaScript, PHP  
 * **Machine Learning**: PyTorch, TensorFlow, Scikit-learn, DGL  
 * **Robotics**: ROS, SLAM algorithms (VINS-Fusion, FAST-LIO), NVIDIA Jetson  
 * **Data Tools**: Matlab, MySQL, Hadoop, Spark  
-* **Embedded Systems**: STM32, Raspberry Pi, Arduino  
+* **Embedded Systems**: STM32, Raspberry Pi, Arduino
+
+---
 
 Honors and Awards
 ======
