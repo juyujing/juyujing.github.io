@@ -10,33 +10,41 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Computer Science**, Ocean University of China (2021 - 2025, expected)  
-* **B.S. in Robotics**, Heriot-Watt University (2021 - 2025, expected)  
+* **B.S. in Computer Science**  
+  Ocean University of China (2021 - 2025, expected)
+
+* **B.S. in Robotics**  
+  Heriot-Watt University (2021 - 2025, expected)
+
+---
 
 Research Experience
 ======
 ### **Honours Dissertation: Graph Neural Networks for Academic Recommendation**  
-**Heriot-Watt University** (Sep. 2024 – Present)  
+**Heriot-Watt University**  
+*Sep. 2024 – Present*  
 - Developed a framework combining spectrum-based directed graph convolution and heterogeneous graph attention networks.  
 - Enhanced academic citation recommendations by accurately modeling citation directionality.  
 [Project Link](https://github.com/juyujing/Graduation-Project)
 
+---
+
 ### **FSU Research Intern: Open Source Model Security Library**  
-**Florida State University** (June 2024 – Present)  
+**Florida State University**  
+*June 2024 – Present*  
 - Refactored graph neural network models to ensure robustness and streamline deployment in model security.  
 - Migrated deprecated dependencies to PyTorch/DGL environments.  
 [Lab Page](https://yushundong.github.io//students) | [Project Link](https://github.com/GNNIP/GNNIP)
 
-### **Hypergraph Neural Networks for Group Recommendations**  
-**Ocean University of China** (June 2023 – Present)  
-- Improved recommendation accuracy by 5% in temporary group recommendation tasks using hypergraph convolutional networks.  
-[GitHub Repository](https://github.com/juyujing/HyperGCN)
+---
 
 ### **Biomimetic Hexapod Robot Development**  
 **Ocean University of China** (Feb. 2024 – May 2024)  
 - Designed a hexapod robot for visually-guided insect capture, integrating YOLO-based object recognition and motion planning.  
 - Reduced computational load using Layer-Adaptive Magnitude Pruning.  
 [GitHub Repository](https://github.com/juyujing/Capturer)
+
+---
 
 ### **AI Algorithm Intern: UAV Path Planning Optimization**  
 **Hydrogen Source Intelligent Technology Co., Ltd.** (July 2024 – Sep. 2024)  
