@@ -71,5 +71,5 @@ Honors and Awards
 
 [Download Resume](https://raw.githubusercontent.com/juyujing/juyujing.github.io/master/files/Resume.pdf){: .btn .btn--success}
 
-<br><br>
+<br><br><br><br>
 
