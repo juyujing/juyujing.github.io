@@ -24,8 +24,8 @@ Here are a few of my key research contributions:
    Designed a lightweight, bio-inspired hexapod robot with advanced motion planning and vision-based recognition.  
 3. [Open Source GNNIP Library](https://github.com/GNNIP/GNNIP)  
    Contributed to a project enhancing graph neural network deployment and robustness.  
-4. [Academic Recommendation System](https://github.com/juyujing/Graduation-Project)  
-   Developed a framework combining spectrum-based directed graph convolution and heterogeneous attention networks.
+4. [Academic Recommendation System](https://github.com/juyujing/CitationNN)  
+   Developed a module that captures directed interaction effectively and apply it to academic recommendation system through heterogeneous directed edge modeling directed citation relationship.
 
 ## Skills
 While my CV contains a full breakdown of skills, here's a brief snapshot:
