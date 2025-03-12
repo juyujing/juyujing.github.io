@@ -43,14 +43,7 @@ Research Experience
 **Ocean University of China** (Feb. 2024 – May 2024)  
 - Designed a hexapod robot for visually-guided insect capture, integrating YOLO-based object recognition and motion planning.  
 - Reduced computational load using Layer-Adaptive Magnitude Pruning.  
-[GitHub Repository](https://github.com/juyujing/Capturer)
-
----
-
-### **AI Algorithm Intern: UAV Path Planning Optimization**  
-**Hydrogen Source Intelligent Technology Co., Ltd.** (July 2024 – Sep. 2024)  
-- Enhanced UAV navigation algorithms and simulation environments with SLAM-based approaches.  
-- Developed lightweight VIO systems using binocular cameras and IMU sensors.  
+[GitHub Repository](https://github.com/juyujing/Capturer) 
 
 ---
 
