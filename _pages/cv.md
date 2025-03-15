@@ -10,11 +10,14 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Computer Science**  
-  Ocean University of China (2021 - 2025, expected)
+* **Ph.D. in Medical Science**  
+  University of Florida (2025 -- )
 
 * **B.S. in Robotics**  
   Heriot-Watt University (2021 - 2025, expected)
+  
+* **Computer Science and Technology(Co-Education)**  
+  Ocean University of China (2021 - 2024)
 
 ---
 
@@ -25,7 +28,7 @@ Research Experience
 **Heriot-Watt University**  
 *Sep. 2024 – Present*  
 - Investigated directed and heterogeneous graph structure to enhance academic paper recommendation system.
-- Focused on integrating directed citation relationships and complex heterogeneous node interactions to improve model computational efficiency and recommendation accuracy. 
+- Focused on integrating directed citation relationships and complex heterogeneous node interactions to improve model computational efficiency and paper recommendation accuracy. 
 [Project Link](https://github.com/juyujing/Graduation-Project)
 
 ---
@@ -49,10 +52,9 @@ Research Experience
 
 Key Skills
 ======
-* **Programming Languages**: Python, C, C++, Java, HTML, CSS, JavaScript, PHP  
-* **Machine Learning**: PyTorch, TensorFlow, Scikit-learn, DGL  
-* **Robotics**: ROS, SLAM algorithms (VINS-Fusion, FAST-LIO), NVIDIA Jetson  
-* **Data Tools**: Matlab, MySQL, Hadoop, Spark  
+* **Programming Languages**: Python, C, C++, Java, HTML, CSS, JavaScript
+* **Robotics**: ROS, NVIDIA Jetson
+* **Data Tools**: Hadoop, Spark, Numpy, Pandas, Scipy, Matplotlib
 * **Embedded Systems**: STM32, Raspberry Pi, Arduino
 
 ---
