@@ -10,22 +10,22 @@ redirect_from:
 I'm Yujing Ju (*pronounced as: Yoo-jing Joo [tɕy˥ y˧˥ tɕiŋ˥˩]*), currently pursuing a dual degree in Robotics at Heriot-Watt University and Computer Science at Ocean University of China. My academic and professional journey is defined by a passion for interdisciplinary research, combining machine learning, graph mining, and robotics to solve complex real-world problems.
 
 ## Highlights
-- **Hypergraph Neural Networks**: Enhanced group recommendation accuracy by 5% using innovative hypergraph frameworks.  
-- **Directed Graph Neural Networks**: Improved academic citation recommendations by capturing overlooked directional relationships.  
+- **Directed Graph Modeling**: Improved academic citation recommendations by capturing overlooked directional relationships.
 - **Biomimetic Robotics**: Developed a hexapod robot capable of efficient locomotion and object grasping using YOLO-based detection and motion planning.  
-- **Open Source Contributions**: Collaborated on [graph model robustness](https://github.com/GNNIP/GNNIP) as part of a Florida State University research internship.
+- **Hypergraph Modeling**: Enhanced group recommendation accuracy by using hypergraph probability matrix.
+- **Open Source Contributions**: Collaborated on [graph-based mathematical model integration](https://github.com/GNNIP/GNNIP) as part of a Florida State University research internship.
 
 ## My Projects
 Here are a few of my key research contributions:
 
-1. [Hypergraph Neural Network for Group Recommendations](https://github.com/juyujing/HyperGCN)  
-   Introduced a hypergraph convolutional network that captures higher-order interactions in group-buying scenarios.  
-2. [Hexapod Robot for Object Capturing](https://github.com/juyujing/Capturer)  
-   Designed a lightweight, bio-inspired hexapod robot with advanced motion planning and vision-based recognition.  
-3. [Open Source GNNIP Library](https://github.com/GNNIP/GNNIP)  
-   Contributed to a project enhancing graph neural network deployment and robustness.  
-4. [Academic Recommendation System](https://github.com/juyujing/CitationNN)  
+1. [Academic Recommendation System](https://github.com/juyujing/CitationNN)  
    Developed a module that captures directed interaction effectively and apply it to academic recommendation system through heterogeneous directed edge modeling directed citation relationship.
+2. [Hexapod Robot for Object Capturing](https://github.com/juyujing/Capturer)  
+   Designed a lightweight, bio-inspired hexapod robot with advanced motion planning and vision-based recognition.
+3. [Hypergraph Modeling for Group Recommendations](https://github.com/juyujing/HyperGCN)  
+   Introduced hypergraph probability matrix that captures higher-order interactions in group-buying scenarios.
+4. [Open Source GNNIP Library](https://github.com/GNNIP/GNNIP)  
+   Contributed to a open source project integrating graph structure based modeling algorithms and enchencing computational efficiency.  
 
 ## Skills
 While my CV contains a full breakdown of skills, here's a brief snapshot:
