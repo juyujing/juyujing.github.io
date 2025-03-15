@@ -19,7 +19,7 @@ I'm Yujing Ju (*pronounced as: Yoo-jing Joo [tɕy˥ y˧˥ tɕiŋ˥˩]*), current
 Here are a few of my key research contributions:
 
 1. [Academic Paper Recommendation System](https://github.com/juyujing/CitationNN)  
-   Developed a module that captures directed interaction effectively and apply it to academic recommendation system through heterogeneous directed edge modeling directed citation relationship.
+   Developed a module that captures directed interaction effectively and apply it to academic recommendation system through directed edge modeling directed citation relationship.
 2. [Hexapod Robot for Object Capturing](https://github.com/juyujing/Capturer)  
    Designed a lightweight, bio-inspired hexapod robot with advanced motion planning and vision-based recognition.
 3. [Hypergraph Modeling for Group Recommendations](https://github.com/juyujing/HyperGCN)  
