@@ -33,6 +33,14 @@ Research Experience
 
 ---
 
+### **Biomimetic Hexapod Robot Development**  
+**Ocean University of China** (Feb. 2024 – May 2024)  
+- Designed a hexapod robot for visually-guided insect capture, integrating object recognition and motion planning.  
+- Reduced computational load using Layer-Adaptive Magnitude Pruning.
+[GitHub Repository](https://github.com/juyujing/Capturer) 
+
+---
+
 ### **FSU Research Intern: Open Source Model Security Library**  
 **Florida State University**  
 *June 2024 – Present*  
@@ -42,11 +50,11 @@ Research Experience
 
 ---
 
-### **Biomimetic Hexapod Robot Development**  
-**Ocean University of China** (Feb. 2024 – May 2024)  
-- Designed a hexapod robot for visually-guided insect capture, integrating object recognition and motion planning.  
-- Reduced computational load using Layer-Adaptive Magnitude Pruning.
-[GitHub Repository](https://github.com/juyujing/Capturer) 
+### **Group Recommendation Project**  
+**Ocean University of China** (June 2023 – June 2024)  
+- The hypergraph probability matrix are introduced for group recommendation, which achieves better results in both commodity recommendation and user recommendation tasks.
+- The new model improves the recommendation system accuracy and computational efficiency. 
+[GitHub Repository](https://github.com/juyujing/HyperGCN) 
 
 ---
 
