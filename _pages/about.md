@@ -28,11 +28,10 @@ Here are a few of my key research contributions:
    Contributed to a open source project integrating graph structure based modeling algorithms and enchencing computational efficiency.  
 
 ## Skills
-While my CV contains a full breakdown of skills, here's a brief snapshot:
-- **Machine Learning**: Expertise in PyTorch, TensorFlow, and Scikit-learn.  
-- **Robotics Development**: Proficient in ROS, SLAM (VINS-Fusion, FAST-LIO), and NVIDIA Jetson platforms.  
-- **Data Science Tools**: Familiarity with Pandas, Numpy, and Matlab.  
-- **Programming**: Advanced in Python, C, and C++.  
+While my CV contains a full breakdown of skills, here's a brief snapshot:  
+- **Robotics Development**: Proficient in ROS, NVIDIA Jetson platforms.  
+- **Data Science Tools**: Familiarity with Hadoop, Spark, Pandas, Numpy, Scipy and Matlab.  
+- **Programming**: Advanced in Java, C, C++, Python, Javascript, CSS, and HTML.  
 
 For a detailed skill list, visit my [CV page](/cv/).
 
