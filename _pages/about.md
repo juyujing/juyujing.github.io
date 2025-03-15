@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yujing Ju (*pronounced as: Yoo-jing Joo [tɕy˥ y˧˥ tɕiŋ˥˩]*), currently pursuing a Bachelor degree in Robotics at Heriot-Watt University. My academic and professional journey is defined by a passion for interdisciplinary research, combining machine learning, graph mining, and robotics to solve complex real-world problems.
+I'm Yujing Ju (*pronounced as: Yoo-jing Joo [tɕy˥ y˧˥ tɕiŋ˥˩]*), currently pursuing Bachelor degree in Robotics at Heriot-Watt University. My academic and professional journey is defined by a passion for interdisciplinary research, combining machine learning, graph mining, and robotics to solve complex real-world problems.
 
 ## Highlights
 - **Directed Graph Modeling**: Improved academic citation recommendations by capturing overlooked directional relationships.
