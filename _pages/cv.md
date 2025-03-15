@@ -62,7 +62,7 @@ Key Skills
 ======
 * **Programming Languages**: Python, C, C++, Java, HTML, CSS, JavaScript
 * **Robotics**: ROS, NVIDIA Jetson
-* **Data Tools**: Hadoop, Spark, Numpy, Pandas, Scipy, Matplotlib
+* **Data Science Tools**: Hadoop, Spark, Numpy, Pandas, Scipy, Matplotlib
 * **Embedded Systems**: STM32, Raspberry Pi, Arduino
 
 ---
