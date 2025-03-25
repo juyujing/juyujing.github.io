@@ -49,7 +49,7 @@ Research Experience
 - The new model improves the recommendation system accuracy and computational efficiency. 
 [GitHub Repository](https://github.com/juyujing/HyperGCN) 
 
-
+<br>
 
 Key Skills
 ======
@@ -58,7 +58,7 @@ Key Skills
 * **Data Science Tools**: Hadoop, Spark, Numpy, Pandas, Scipy, Matplotlib
 * **Embedded Systems**: STM32, Raspberry Pi, Arduino
 
-
+<br>
 
 Honors and Awards
 ======
