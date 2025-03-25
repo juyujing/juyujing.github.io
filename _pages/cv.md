@@ -63,7 +63,9 @@ Key Skills
 Honors and Awards
 ======
 * **Innovation and Entrepreneurship Scholarship**, 2022  
-* **Outstanding Youth Volunteer Award**, 2022  
+* **Outstanding Youth Volunteer Award**, 2022
+
+<br>
 
 [Download Resume](https://raw.githubusercontent.com/juyujing/juyujing.github.io/master/files/Resume.pdf){: .btn .btn--success}
 
