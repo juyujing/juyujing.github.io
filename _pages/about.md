@@ -14,7 +14,7 @@ Starting in **Fall 2025**, I will join the **Doctor of Philosophy in Medical Sci
 My academic and professional journey is defined by a passion for **interdisciplinary research**, combining **Statistics**, **Topology**, **Computational Mathematics**, and **Robotics** to solve complex real-world problems — with a particular focus on applications in **Biology** and **Medicine**.
 
 ## Highlights
-- **Directed Graph Modeling**: Improved academic citation recommendations by capturing overlooked directional relationships.
+- **Directed Graph Modeling**: Improved academic citation recommendation precision by capturing overlooked directional relationships.
 - **Biomimetic Robotics**: Developed a hexapod robot capable of efficient locomotion and object grasping using Vision based detection and motion planning.  
 - **Hypergraph Modeling**: Enhanced group recommendation accuracy by using hypergraph probability matrix.
 - **Open Source Contributions**: Collaborated on [graph-based mathematical model integration](https://github.com/GNNIP/GNNIP) as part of a Florida State University research internship.
