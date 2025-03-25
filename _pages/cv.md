@@ -21,7 +21,6 @@ Education
 
 
 
-
 Research Experience
 ======
 ### **Honours Dissertation: Graph Neural Networks for Academic Recommendation**  
