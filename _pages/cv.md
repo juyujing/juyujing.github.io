@@ -11,13 +11,13 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Medical Science**  
-  University of Florida (2025 -- )
+  University of Florida, advised by Prof. Mei Liu (2025 -- )
 
 * **B.S. in Robotics**  
-  Heriot-Watt University (2021 - 2025, expected)
+  Heriot-Watt University, advised by Prof. Wei Pang (2021 - 2025, expected)
   
 * **Computer Science and Technology(Co-Education)**  
-  Ocean University of China (2021 - 2024)
+  Ocean University of China, advised by Prof. Yanwei Yu and Prof. Shengke Wang (2021 - 2024)
 
 ---
 
