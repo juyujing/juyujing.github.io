@@ -25,7 +25,7 @@ author:
   name: "Yujing Ju"
   pronouns: # example: "she/her"
   bio: "An Undergraduate student majoring in Robotics at Heriot-Watt University."
-  location: "<a href='https://www.google.com/maps/place/Edinburgh,+Scotland,+UK' target='_blank' title='View on Google Maps'>Edinburgh, SCT, UK</a>"
+  location: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.google.com/maps/place/Edinburgh,+Scotland,+UK' target='_blank' title='View on Google Maps'>Edinburgh, SCT, UK</a></span>"
   employer: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.hw.ac.uk/' target='_blank' style='text-decoration: none; color: inherit; white-space: nowrap;'>Heriot-Watt University</a></span>"
   uri: "https://juyujing.github.io/"
   email: "yj2012@hw.ac.uk"
