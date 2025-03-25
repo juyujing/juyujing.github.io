@@ -19,7 +19,7 @@ Education
 * **Computer Science and Technology (Co-Education)**  
   Ocean University of China, advised by [Prof. Yanwei Yu](https://yuyanwei.github.io/) and Prof. [Shengke Wang](http://www.cvlab-ouc.cn/) (Sep 2021 - March 2024)
 
-
+<br>
 
 Research Experience
 ======
