@@ -4,7 +4,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+
 
 {% include base_path %}
 
@@ -19,7 +19,7 @@ Education
 * **Computer Science and Technology (Co-Education)**  
   Ocean University of China, advised by [Prof. Yanwei Yu](https://yuyanwei.github.io/) and Prof. [Shengke Wang](http://www.cvlab-ouc.cn/) (Sep 2021 - March 2024)
 
----
+
 
 
 Research Experience
@@ -31,7 +31,7 @@ Research Experience
 - Focused on integrating directed citation relationships and complex heterogeneous node interactions to improve model computational efficiency and paper recommendation accuracy. 
 [Project Link](https://github.com/juyujing/Graduation-Project)
 
----
+
 
 ### **Biomimetic Hexapod Robot Development**  
 **Ocean University of China** (Feb. 2024 – May 2024)  
@@ -39,7 +39,7 @@ Research Experience
 - Reduced computational load using Layer-Adaptive Magnitude Pruning.
 [GitHub Repository](https://github.com/juyujing/Capturer) 
 
----
+
 
 ### **FSU Research Intern: Open Source Model Security Library**  
 **Florida State University**  
@@ -48,7 +48,7 @@ Research Experience
 - Improve computational efficiency in large-scale datasets.
 [Lab Page](https://yushundong.github.io//students) | [Project Link](https://github.com/GNNIP/GNNIP)
 
----
+
 
 ### **Group Recommendation Project**  
 **Ocean University of China** (June 2023 – June 2024)  
@@ -56,7 +56,7 @@ Research Experience
 - The new model improves the recommendation system accuracy and computational efficiency. 
 [GitHub Repository](https://github.com/juyujing/HyperGCN) 
 
----
+
 
 Key Skills
 ======
@@ -65,7 +65,7 @@ Key Skills
 * **Data Science Tools**: Hadoop, Spark, Numpy, Pandas, Scipy, Matplotlib
 * **Embedded Systems**: STM32, Raspberry Pi, Arduino
 
----
+
 
 Honors and Awards
 ======
