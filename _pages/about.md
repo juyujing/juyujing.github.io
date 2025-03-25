@@ -11,7 +11,7 @@ I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy˥ y˧˥ tɕiŋ˥˩]), cur
 
 Starting in **Fall 2025**, I will join the **Doctor of Philosophy in Medical Science** program at the **University of Florida**, advised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/).
 
-My academic and professional journey is defined by a passion for **interdisciplinary research**, combining **statistics**, **topology**, **computer science**, and **robotics** to solve complex real-world problems — with a particular focus on applications in **biology** and **medical science**.
+My academic and professional journey is defined by a passion for **interdisciplinary research**, combining **statistics**, **topology**, **Computational Mathematics**, and **robotics** to solve complex real-world problems — with a particular focus on applications in **biology** and **medical science**.
 
 ## Highlights
 - **Directed Graph Modeling**: Improved academic citation recommendations by capturing overlooked directional relationships.
