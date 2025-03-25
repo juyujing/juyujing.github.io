@@ -57,7 +57,7 @@ author:
   #       });
   #     });
   #   </script>
-  employer: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.hw.ac.uk/' target='_blank' >Heriot-Watt University</a></span>"
+  employer: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.hw.ac.uk/' target='_blank' title='Heriot-Watt University Official Website'>Heriot-Watt University</a></span>"
   uri: "https://juyujing.github.io/"
   email: "yj2012@hw.ac.uk"
 
