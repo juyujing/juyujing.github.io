@@ -30,13 +30,11 @@ Research Experience
 - Focused on integrating directed citation relationships and complex heterogeneous node interactions to improve model computational efficiency and paper recommendation accuracy. 
 [Project Link](https://github.com/juyujing/Graduation-Project)
 
-
 ### **Biomimetic Hexapod Robot Development**  
 **Ocean University of China** (Feb. 2024 – May 2024)  
 - Designed a hexapod robot for visually-guided insect capture, integrating object recognition and motion planning.  
 - Reduced computational load using Layer-Adaptive Magnitude Pruning.
 [GitHub Repository](https://github.com/juyujing/Capturer) 
-
 
 ### **FSU Research Intern: Open Source Model Security Library**  
 **Florida State University**  
@@ -44,7 +42,6 @@ Research Experience
 - Integrate graph structure based mathematical model.  
 - Improve computational efficiency in large-scale datasets.
 [Lab Page](https://yushundong.github.io//students) | [Project Link](https://github.com/GNNIP/GNNIP)
-
 
 ### **Group Recommendation Project**  
 **Ocean University of China** (June 2023 – June 2024)  
