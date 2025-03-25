@@ -9,7 +9,7 @@ redirect_from:
 
 I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy˥ y˧˥ tɕiŋ˥˩]), currently pursuing my Honours Bachelor's degree in **Robotics** at [**Heriot-Watt University**](https://www.hw.ac.uk), where I am advised by [Prof. Wei Pang](https://pangwei.eu.org/).
 
-Starting in **Fall 2025**, I will join the **Doctor of Philosophy in Medical Science** program at the [**University of Florida**](https://www.ufl.edu), advised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/).
+In Fall 2025, I will begin my **Doctor of Philosophy in Medical Science** at the [**University of Florida**](https://www.ufl.edu) under the supervision of [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/).
 
 My academic and professional journey is defined by a passion for **interdisciplinary research**, combining **Statistics**, **Topology**, **Computational Mathematics**, and **Robotics** to solve complex real-world problems — with a particular focus on applications in **Biology** and **Medicine**.
 
