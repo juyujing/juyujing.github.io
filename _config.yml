@@ -25,7 +25,38 @@ author:
   name: "Yujing Ju"
   pronouns: # example: "she/her"
   bio: "An Undergraduate student majoring in Robotics at Heriot-Watt University."
-  location: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.google.com/maps/place/Edinburgh,+Scotland,+UK' target='_blank' title='View on Google Maps'>Edinburgh, SCT, UK</a></span>"
+  # location: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.google.com/maps/place/Edinburgh,+Scotland,+UK' target='_blank' title='View on Google Maps'>Edinburgh, SCT, UK</a></span>"
+  location: >
+    <span style="position: relative; display: inline-block;">
+      <span style="text-decoration: underline dotted; cursor: pointer;">
+        Edinburgh, SCT, UK
+      </span>
+      <span style="visibility: hidden; width: 300px; height: 200px; background: #fff; border: 1px solid #ccc; position: absolute; z-index: 100; bottom: 125%; left: 50%; transform: translateX(-50%); box-shadow: 0 2px 10px rgba(0,0,0,0.2);">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d353602.8392412609!2d-3.9188669!3d55.953252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c786b7d8aeff%3A0xd83f5d2df7d14c49!2sEdinburgh%2C%20UK!5e0!3m2!1sen!2suk!4v1615901194230!5m2!1sen!2suk"
+          width="100%"
+          height="100%"
+          style="border:0;"
+          allowfullscreen=""
+          loading="lazy"
+        ></iframe>
+      </span>
+    </span>
+  
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var locationEl = document.querySelector('span[style*="position: relative"]');
+        var mapPreview = locationEl.querySelector('span:nth-child(2)');
+        var mapIframe = locationEl.querySelector('span:nth-child(3)');
+  
+        locationEl.addEventListener('mouseenter', function() {
+          mapIframe.style.visibility = 'visible';
+        });
+        locationEl.addEventListener('mouseleave', function() {
+          mapIframe.style.visibility = 'hidden';
+        });
+      });
+    </script>
   employer: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.hw.ac.uk/' target='_blank' style='text-decoration: none; color: inherit; white-space: nowrap;'>Heriot-Watt University</a></span>"
   uri: "https://juyujing.github.io/"
   email: "yj2012@hw.ac.uk"
