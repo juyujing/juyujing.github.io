@@ -36,7 +36,7 @@ Research Experience
 - Reduced computational load using Layer-Adaptive Magnitude Pruning.
 [GitHub Repository](https://github.com/juyujing/Capturer) 
 
-### **FSU Research Intern: Open Source Model Security Library**  
+### **FSU Research Intern: Open Source Graph Modeling Library**  
 **Florida State University**  
 *June 2024 – Present*  
 - Integrate graph structure based mathematical model.  
