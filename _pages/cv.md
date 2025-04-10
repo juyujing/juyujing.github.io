@@ -23,7 +23,7 @@ Education
 
 Research Experience
 ======
-### **Honours Dissertation: Graph Neural Networks for Academic Recommendation**  
+### **Honours Dissertation: Directed Graph Modeling for Academic Recommendation**  
 **Heriot-Watt University**  
 *Sep. 2024 – Present*  
 - Investigated directed and heterogeneous graph structure to enhance academic paper recommendation system.
