@@ -41,7 +41,7 @@ Research Experience
 *June 2024 – Present*  
 - Integrate graph structure based mathematical model.  
 - Improve computational efficiency in large-scale datasets.
-[Lab Page](https://yushundong.github.io//students) | [Project Link](https://github.com/GNNIP/GNNIP)
+[Lab Page](https://yushundong.github.io//students) | [Project Link](https://github.com/juyujing/GrOVe)
 
 ### **Group Recommendation Project**  
 **Ocean University of China** (June 2023 – June 2024)  
