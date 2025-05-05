@@ -54,9 +54,9 @@ Feel free to connect or explore my work through the following platforms:
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 20px; vertical-align: middle; margin-right: 8px;">
     LinkedIn: Yujing Ju
   </a>
-  <a href="https://www.youtube.com/user/dyodn" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #FF0000; border-radius: 5px;">
+  <a href="https://www.youtube.com/@dyodn" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #FF0000; border-radius: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-    YouTube: dyodn
+    YouTube: @dyodn
   </a>
 </div>
 
