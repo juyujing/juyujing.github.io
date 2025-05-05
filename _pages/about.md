@@ -17,7 +17,7 @@ My academic and professional journey is defined by a passion for **interdiscipli
 - **Directed Graph Modeling**: Improved academic paper recommendation precision by capturing overlooked directional citation relationships.
 - **Biomimetic Robotics**: Developed a hexapod robot capable of efficient locomotion and object grasping using Vision based detection and motion planning.  
 - **Hypergraph Modeling**: Enhanced group recommendation accuracy by using hypergraph probability matrix.
-- **Open Source Contributions**: Collaborated on [graph-based mathematical model integration](https://github.com/GNNIP/GNNIP) as part of a Florida State University research internship.
+- **Open Source Contributions**: Collaborated on graph-based mathematical model integration as part of a Florida State University research internship.
 
 ## My Projects
 Here are a few of my key research contributions:
