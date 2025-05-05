@@ -28,7 +28,7 @@ Here are a few of my key research contributions:
    Designed a lightweight, bio-inspired hexapod robot with advanced motion planning and vision-based recognition.
 3. [Hypergraph Modeling for Group Recommendations](https://github.com/juyujing/HyperGCN)  
    Introduced hypergraph probability matrix that captures higher-order interactions in group-buying scenarios.
-4. [Open Source GNNIP Library](https://github.com/GNNIP/GNNIP)  
+4. [Open Source GNNIP Library](https://github.com/juyujing/GrOVe)  
    Contributed to a open source project integrating graph structure based modeling algorithms and enchencing computational efficiency.  
 
 ## Skills
