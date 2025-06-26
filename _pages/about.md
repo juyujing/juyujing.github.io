@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy˥ y˧˥ tɕiŋ˥˩]), currently pursuing my Honours Bachelor's degree in **Robotics** at [**Heriot-Watt University**](https://www.hw.ac.uk), where I am advised by [Prof. Wei Pang](https://pangwei.eu.org/).
+I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy˥ y˧˥ tɕiŋ˥˩]), holding a Bachelor of Engineering degree in **Robotics** with First-Class Award at [**Heriot-Watt University**](https://www.hw.ac.uk), where I am advised by [Prof. Wei Pang](https://pangwei.eu.org/).
 
 In Fall 2025, I will begin my **Doctor of Philosophy in Biological and Biomedical Sciences** at the [**University of Florida**](https://www.ufl.edu) under the supervision of [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/).
 
