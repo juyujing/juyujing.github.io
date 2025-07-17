@@ -25,7 +25,7 @@ author:
   name: "Yujing Ju"
   pronouns: # example: "she/her"
   bio: "First-year Biomedical PhD student at University of Florida."
-  location: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.google.com/maps/place/Edinburgh,+Scotland,+UK' target='_blank' title='View on Google Maps'>Edinburgh, SCT, UK</a></span>"
+  location: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.google.com/maps/place/Kyoto,+Japan' target='_blank' title='View on Google Maps'>Kyoto, Japan</a></span>"
   # location: >
   #   <span style="position: relative; display: inline-block;">
   #     <span style="text-decoration: underline dotted; cursor: pointer;">
@@ -57,9 +57,9 @@ author:
   #       });
   #     });
   #   </script>
-  employer: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.hw.ac.uk/' target='_blank' title='Heriot-Watt University Official Website'>Heriot-Watt University</a></span>"
+  employer: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.ufl.edu/' target='_blank' title='University of Florida Official Website'>University of Florida</a></span>"
   uri: "https://juyujing.github.io/"
-  email: "yj2012@hw.ac.uk"
+  email: "yujingju@ufl.edu"
 
 
   # Academic websites
