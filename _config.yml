@@ -25,7 +25,7 @@ author:
   name: "Yujing Ju"
   pronouns: # example: "she/her"
   bio: "First-year Biomedical PhD student at University of Florida."
-  location: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.google.com/maps/place/Kyoto,+Japan' target='_blank' title='View on Google Maps'>Kyoto, Japan</a></span>"
+  location: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.google.com/maps/place/京都府京都市' target='_blank' title='View on Google Maps'>Kyoto, Japan</a></span>"
   # location: >
   #   <span style="position: relative; display: inline-block;">
   #     <span style="text-decoration: underline dotted; cursor: pointer;">
