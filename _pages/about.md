@@ -9,12 +9,6 @@ redirect_from:
 
 I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy˥ y˧˥ tɕiŋ˥˩]), holding a Honors Bachelor of Engineering degree in **Robotics** with First-Class Award at [**Heriot-Watt University**](https://www.hw.ac.uk), where I am advised by [Prof. Wei Pang](https://pangwei.eu.org/).
 
-{% comment %}
-In Fall 2025, I will begin my **Doctor of Philosophy in AI/ML (Biomedical Applications)** at the [**University of Florida**](https://www.ufl.edu) under the supervision of [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/).
-
-My academic and professional journey is defined by a passion for **interdisciplinary research**, combining **Statistics**, **Topology**, **Computational Mathematics**, and **Robotics** to solve complex real-world problems — with focus on applications in **Medicine** and **Recommendation Systems**.
-{% encomment %}
-
 In Fall 2025, I will begin my Doctor of Philosophy in AI/ML at the [University of Florida](https://www.ufl.edu) under the supervision of [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/).
 
 My research advances machine learning by developing novel approaches to **representation learning and embedding optimization**. 
