@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yujing Ju / About" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yujing Ju" 
-description              : &description "First-year Biomedical PhD student at University of Florida"
+description              : &description "First-year PhD student at University of Florida"
 url                      : "https://juyujing.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "juyujing/juyujing.github.io" # "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar: "profile.png"
   name: "Yujing Ju"
   pronouns: # example: "she/her"
-  bio: "First-year Biomedical PhD student at University of Florida."
+  bio: "First-year PhD student at University of Florida."
   location: "<span style='display: inline-block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; vertical-align: middle;'><a href='https://www.google.com/maps/place/京都府京都市' target='_blank' title='View on Google Maps'>Kyoto, Japan</a></span>"
   # location: >
   #   <span style="position: relative; display: inline-block;">
