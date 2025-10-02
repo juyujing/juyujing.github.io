@@ -11,9 +11,7 @@ I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy˥ y˧˥ tɕiŋ˥˩]), hol
 
 In Fall 2025, I will begin my Doctor of Philosophy in AI/ML at the [University of Florida](https://www.ufl.edu) under the supervision of [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/).
 
-My research advances machine learning by developing novel approaches to **representation learning and embedding optimization**. 
-
-I design **architectures for large language models, graph neural networks, and diffusion models** that integrate structural innovations and topological reasoning, enabling models to capture complex relational and latent patterns. These methods are applied to **large-scale, privacy-sensitive electronic health records** and **recommendation systems**, producing scalable, robust, and high-performing solutions for challenging real-world problems.
+My research is dedicated to advancing **General AI**, with a primary focus on **Representation Learning and Embedding Optimization**. This work involves designing novel architectures for a range of foundational models, including **large language models**, **graph neural networks*, and **diffusion models**. My methodology integrates **relational patterns**, **graph topology**, and **causal inference** into the model's architectural design, equipping systems with the capacity to reason over complex interactions and latent structures within high-dimensional data. The efficacy of these approaches are validated on challenging real-world applications, utilizing large-scale, privacy-sensitive datasets from electronic health records and recommendation systems to benchmark their performance and robustness.
 
 
 ## Highlights
