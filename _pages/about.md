@@ -13,7 +13,7 @@ In Fall 2025, I will begin my Doctor of Philosophy in AI/ML at the [University o
 
 My research advances machine learning by developing novel approaches to **representation learning and embedding optimization**. 
 
-I design **architectures for large language models, graph neural networks, and diffusion models** that integrate structural innovations and topological reasoning, enabling models to capture complex relational and latent patterns. These methods are applied to **large-scale, privacy-sensitive electronic health records** and **recommendation system**, producing scalable, robust, and high-performing solutions for challenging real-world problems.
+I design **architectures for large language models, graph neural networks, and diffusion models** that integrate structural innovations and topological reasoning, enabling models to capture complex relational and latent patterns. These methods are applied to **large-scale, privacy-sensitive electronic health records** and **recommendation systems**, producing scalable, robust, and high-performing solutions for challenging real-world problems.
 
 
 ## Highlights
