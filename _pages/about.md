@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy˥ y˧˥ tɕiŋ˥˩]). I am currently a Doctor of Philosophy student in AI/ML at the [**University of Florida**](https://www.ufl.edu), supervised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/). 
+I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy<sup>˥˥</sup>y<sup>˧˥</sup>tɕiŋ<sup>˥˩</sup>]). I am currently a Doctor of Philosophy student in AI/ML at the [**University of Florida**](https://www.ufl.edu), supervised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/). 
 
 In 2025 summer, I received my Honors Bachelor of Engineering degree in **Robotics** with First-Class Award from [**Heriot-Watt University**](https://www.hw.ac.uk), where I was advised by [Prof. Wei Pang](https://pangwei.eu.org/).
 
