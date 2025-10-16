@@ -4,5 +4,4 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-No publications yet, but it will come soon.
+**Yujing Ju (First Author)**, et al. A paper under review at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2026.
