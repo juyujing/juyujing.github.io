@@ -47,13 +47,13 @@ For a detailed skill list, visit my [CV page](/cv/).
 ## Connect with Me
 Feel free to connect or explore my work through the following platforms:
 <div style="margin: 10px 0;">
-  <a href="https://github.com/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #24292e; border-radius: 5px;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-    GitHub: juyujing
-  </a>
-  <a href="https://www.linkedin.com/in/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #0077b5; border-radius: 5px;">
+    <a href="https://www.linkedin.com/in/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #0077b5; border-radius: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 20px; vertical-align: middle; margin-right: 8px;">
     LinkedIn: Yujing Ju
+  </a>
+    <a href="https://github.com/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #24292e; border-radius: 5px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 20px; vertical-align: middle; margin-right: 8px;">
+    GitHub: juyujing
   </a>
   <a href="https://www.youtube.com/@dyodn" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #FF0000; border-radius: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="height: 20px; vertical-align: middle; margin-right: 8px;">
