@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy<sup>˥˥</sup>y<sup>˧˥</sup>tɕiŋ<sup>˥˩</sup>]). I am currently a Doctor of Philosophy student in AI/ML at the [**University of Florida**](https://www.ufl.edu), supervised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/). 
+I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy<sup>˥˥</sup>y<sup>˧˥</sup>tɕiŋ<sup>˥˩</sup>]). I am currently a Doctor of Philosophy student in medical science at the [**University of Florida**](https://www.ufl.edu), supervised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/). 
 
 In 2025 summer, I received my Honors Bachelor of Engineering degree in **Robotics** with First-Class Award from [**Heriot-Watt University**](https://www.hw.ac.uk), where I was advised by [Prof. Wei Pang](https://pangwei.eu.org/).
 
-My research is dedicated to advancing **General AI**, with a primary focus on **Representation Learning and Embedding Optimization**. This work involves designing novel architectures for a range of foundational models, including **large language models**, **graph neural networks**, and **diffusion models**. My methodology integrates **relational patterns**, **graph topology**, and **causal inference** into the model's architectural design, equipping systems with the capacity to reason over complex interactions and latent structures within high-dimensional data. The efficacy of these approaches is validated on challenging real-world applications, utilizing large-scale, privacy-sensitive datasets from electronic health records and recommendation systems to benchmark their performance and robustness.
+My research is dedicated to advancing **General AI**, with a primary focus on Representation Learning and Embedding Optimization. My methodology integrates **relational patterns**, **graph topology** into the system design, equipping systems with the capacity to reason over complex interactions and latent structures within high-dimensional behavior. The efficacy of these approaches is validated on challenging public health applications, analyzing group mode to strengthen healthcare outcomes and medical timeliness.
 
 
 ## Highlights
