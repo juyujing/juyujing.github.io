@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in AI/ML**  
+* **Ph.D. in Medical Science**  
   University of Florida, advised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/) (Aug 2025 -- )
 
 * **B.S. in Robotics**  
@@ -40,7 +40,7 @@ Research Experience
 **Florida State University**  
 *June 2024 – Present*  
 - Integrate graph structure based mathematical model.  
-- Improve computational efficiency in large-scale datasets.
+- Improve computational efficiency in current datasets.
 [Lab Page](https://yushundong.github.io//students) | [Project Link](https://github.com/juyujing/GrOVe)
 
 ### **Group Recommendation Project**  
