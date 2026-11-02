@@ -2,63 +2,49 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm **Yujing Ju** (pronounced as: *Yoo-jing Joo* [tɕy<sup>˥˥</sup>y<sup>˧˥</sup>tɕiŋ<sup>˥˩</sup>]). I am currently a Doctor of Philosophy student in medical science at the [**University of Florida**](https://www.ufl.edu), supervised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/). 
+I'm **Yujing Ju**, a Research Assistant at the [University of Florida](https://www.ufl.edu/) working on large language models, post-training, and multi-agent systems with [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/). I am enrolled in the PhD program in Biological and Medical Sciences with a **Master-en-route**, with an expected program end date of January 2027.
 
-In 2025 summer, I received my Honors Bachelor of Engineering degree in **Robotics** with First-Class Award from [**Heriot-Watt University**](https://www.hw.ac.uk), where I was advised by [Prof. Wei Pang](https://pangwei.eu.org/).
+My work focuses on **reinforcement learning for LLMs, long-horizon agents, and reliable model evaluation**. I connect training workflows with domain-specific reasoning and tool use, from investment assistants to privacy-sensitive research.
 
-My research is dedicated to advancing **General AI**, with a primary focus on Representation Learning and Embedding Optimization. My methodology integrates **relational patterns**, **graph topology** into the system design, equipping systems with the capacity to reason over complex interactions and latent structures within high-dimensional behavior. The efficacy of these approaches is validated on challenging public health applications, analyzing group mode to strengthen healthcare outcomes and medical timeliness.
+I am currently an **Algorithm Engineer Intern at Pharmaron** (October 2026–present). Previously, I worked on **AIME, Hithink RoyalFlush's North America investment assistant**, as an Algorithm Engineer Intern (September–October 2026).
 
+I graduated from [Heriot-Watt University](https://www.hw.ac.uk/) in May 2025 with a bachelor's degree in Robotics and First Class Honours (GPA: 3.85).
 
-## Highlights
-- **Directed Graph Modeling**: Improved academic paper recommendation precision by capturing overlooked directional citation relationships.
-- **Biomimetic Robotics**: Developed a hexapod robot capable of efficient locomotion and object grasping using Vision based detection and motion planning.  
-- **Hypergraph Modeling**: Enhanced group recommendation accuracy by using hypergraph probability matrix.
-- **Open Source Contributions**: Collaborated on graph-based mathematical model integration as part of a Florida State University research internship.
+## Selected Work
 
-## My Projects
-Here are a few of my key research contributions:
+### AIME — U.S. Equity Investment Assistant
+**Hithink RoyalFlush (Tonghuashun) · Algorithm Engineer Intern · Sep–Oct 2026**
 
-1. [Academic Paper Recommendation System](https://github.com/juyujing/CitationNN)  
-   Developed a module that captures directed interaction effectively and apply it to academic recommendation system through directed edge modeling directed citation relationship.
-2. [Hexapod Robot for Object Capturing](https://github.com/juyujing/Capturer)  
-   Designed a lightweight, bio-inspired hexapod robot with advanced motion planning and vision-based recognition.
-3. [Hypergraph Modeling for Group Recommendations](https://github.com/juyujing/HyperGCN)  
-   Introduced hypergraph probability matrix that captures higher-order interactions in group-buying scenarios.
-4. [Open Source GNNIP Library](https://github.com/juyujing/GrOVe)  
-   Contributed to a open source project integrating graph structure based modeling algorithms and enchencing computational efficiency.  
+- Applied **GRPO-based post-training** to U.S. equity selection, financial reasoning, and investment recommendations.
+- Developed **agent trajectories and long-horizon workflows** for multi-step market analysis, tool use, and investment decisions.
+- Adapted research from **VTA, StockR1, AlphaQuanter, SEP, and GRPO Financial Analyst**, incorporating time-series reasoning, verifiable forecast actions, and explainable stock selection.
+- Designed quantitative trading strategies and **paper-trading simulations** for U.S. equities.
+- Used VeRL, DeepSpeed, Megatron-LM, and Slime in post-training experiments, alongside practice with OpenRLHF, LLaMA-Factory, RLHF/RLVR, PPO, DPO, and SAC.
 
-## Skills
-While my CV contains a full breakdown of skills, here's a brief snapshot:  
-- **Robotics Development**: Proficient in ROS, NVIDIA Jetson platforms.  
-- **Data Science Tools**: Familiarity with Hadoop, Spark, Pandas, Numpy, Scipy and Matlab.  
-- **Programming**: Advanced in Java, C, C++, Python, Javascript, CSS, and HTML.  
+### LLM Privacy and Evaluation
+**University of Florida · Research Assistant · Aug 2025–present**
 
-For a detailed skill list, visit my [CV page](/cv/).
+- Built privacy and ICD-coding benchmarks using **31,080 QA examples**, **4,440 patient-level samples**, and **1,860 valid ICD labels**.
+- Developed offline data generation and distributed training/evaluation workflows on the **HiPerGator B200** cluster.
+- Investigated retrieval and multi-agent reasoning for personalized prediction.
 
-## Recognition
-- **Innovation and Entrepreneurship Scholarship**, 2022  
-- **Outstanding Youth Volunteer Award**, 2022  
+### Graph Learning and Recommendation
 
-## Connect with Me
-Feel free to connect or explore my work through the following platforms:
-<div style="margin: 10px 0;">
-    <a href="https://www.linkedin.com/in/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #0077b5; border-radius: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-    LinkedIn: Yujing Ju
-  </a>
-    <a href="https://github.com/juyujing" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #24292e; border-radius: 5px;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-    GitHub: juyujing
-  </a>
-  <a href="https://www.youtube.com/@dyodn" style="display: inline-block; padding: 10px 15px; margin: 5px; text-decoration: none; color: white; background-color: #FF0000; border-radius: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="height: 20px; vertical-align: middle; margin-right: 8px;">
-    YouTube: @dyodn
-  </a>
-</div>
+- **Asymmetric graph convolution:** developed graph operators for asymmetric relationships and evaluated recommendation performance.
+- **Directed academic recommendation:** modeled citation direction and heterogeneous author–paper interactions. [Project](https://github.com/juyujing/Graduation-Project)
+- **Hypergraph recommendation:** modeled higher-order interactions for item and participant prediction. [Project](https://github.com/juyujing/HyperGCN)
+- **Other projects:** [hexapod robot](https://github.com/juyujing/Capturer) and [graph modeling library](https://github.com/juyujing/GrOVe).
 
-<br><br><br><br><br><br>
+## Technical Focus
+
+**Post-training:** SFT, GRPO, RLHF/RLVR, PPO, DPO, SAC.  
+**Training systems:** PyTorch, VeRL, DeepSpeed, Megatron-LM, Slime, OpenRLHF, LLaMA-Factory, FSDP, LoRA/QLoRA.  
+**Agents and evaluation:** agent trajectories, long-horizon planning, tool use, multi-agent systems, RAG, and LLM evaluation.  
+**Programming:** Python, C++, Java, SQL, Linux, Git, and GPU clusters.
+
+[View CV](/cv/) · [LinkedIn](https://www.linkedin.com/in/juyujing/) · [GitHub](https://github.com/juyujing) · [YouTube](https://www.youtube.com/@dyodn)
