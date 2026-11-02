@@ -8,66 +8,81 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **Ph.D. in Medical Science**  
-  University of Florida, advised by [Prof. Mei Liu](https://hobi.med.ufl.edu/profile/liu-mei/) (Aug 2025 -- )
+## Education
 
-* **B.S. in Robotics**  
-  Heriot-Watt University, advised by [Prof. Wei Pang](https://pangwei.eu.org/) (Sep 2021 - May 2025, expected)
-  
-* **Computer Science**  
-  Ocean University of China, advised by [Prof. Yanwei Yu](https://yuyanwei.github.io/) and Prof. [Shengke Wang](http://www.cvlab-ouc.cn/) (Sep 2021 - March 2024)
+- **University of Florida**, Gainesville, FL — PhD program in Biological and Medical Sciences; Master-en-route. Aug 2025 – Jan 2027 (expected). Research focus: AI and large language models.
+- **Heriot-Watt University**, Edinburgh, UK — Bachelor's degree in Robotics. Sep 2021 – May 2025. GPA: 3.85; First Class Honours.
+- **Ocean University of China**, Qingdao, China — Computer Science. Sep 2021 – May 2024.
 
-<br>
+## Experience
 
-Research Experience
-======
-### **Honours Dissertation: Directed Graph Modeling for Academic Recommendation**  
-**Heriot-Watt University**  
-*Sep. 2024 – Present*  
-- Investigated directed and heterogeneous graph structure to enhance academic paper recommendation system.
-- Focused on integrating directed citation relationships and complex heterogeneous node interactions to improve model computational efficiency and paper recommendation accuracy. 
-[Project Link](https://github.com/juyujing/Graduation-Project)
+### Algorithm Engineer Intern — Pharmaron
+Beijing, China · Oct 2026 – Present
 
-### **Biomimetic Hexapod Robot Development**  
-**Ocean University of China** (Feb. 2024 – May 2024)  
-- Designed a hexapod robot for visually-guided insect capture, integrating object recognition and motion planning.  
-- Reduced computational load using Layer-Adaptive Magnitude Pruning.
-[GitHub Repository](https://github.com/juyujing/Capturer) 
+### Algorithm Engineer Intern — Hithink RoyalFlush (Tonghuashun)
+Hangzhou, China · Sep 2026 – Oct 2026  
+**AIME — North America Investment Assistant**
 
-### **FSU Research Intern: Open Source Graph Modeling Library**  
-**Florida State University**  
-*June 2024 – Present*  
-- Integrate graph structure based mathematical model.  
-- Improve computational efficiency in current datasets.
-[Lab Page](https://yushundong.github.io//students) | [Project Link](https://github.com/juyujing/GrOVe)
+- Applied **GRPO-based LLM post-training** to U.S. equity selection and investment recommendations, adapting research from VTA, StockR1, AlphaQuanter, SEP, and GRPO Financial Analyst to financial reasoning and decision-making.
+- Developed **agent trajectories and long-horizon workflows** for multi-step analysis, tool use, and investment decisions; incorporated time-series reasoning, verifiable forecast actions, and explainable stock selection into training and evaluation.
+- Designed U.S. equity trading strategies and paper-trading simulations, connecting stock recommendations, portfolio decisions, and simulated execution to support repeatable strategy experiments.
+- Used **VeRL, DeepSpeed, Megatron-LM, and Slime** for post-training experiments; additional practice covered OpenRLHF, LLaMA-Factory, RLHF/RLVR, PPO, DPO, and SAC.
 
-### **Group Recommendation Project**  
-**Ocean University of China** (June 2023 – June 2024)  
-- The hypergraph probability matrix are introduced for group recommendation, which achieves better results in both commodity recommendation and user recommendation tasks.
-- The new model improves the recommendation system accuracy and computational efficiency. 
-[GitHub Repository](https://github.com/juyujing/HyperGCN) 
+### Research Assistant — University of Florida
+Gainesville, FL · Part-time · Aug 2025 – Present
 
-<br>
+- Conduct research on LLM evaluation, privacy-preserving fine-tuning, retrieval, and multi-agent systems.
+- Built EHR privacy and ICD-coding benchmarks with **31,080 QA examples**, **4,440 patient-level samples**, and **1,860 valid ICD labels**.
+- Developed an offline data-generation pipeline and distributed model training/evaluation workflows on the HiPerGator B200 cluster.
 
-Key Skills
-======
-* **Programming Languages**: Python, C, C++, Java, HTML, CSS, JavaScript
-* **Robotics**: ROS, NVIDIA Jetson
-* **Data Science Tools**: Hadoop, Spark, Numpy, Pandas, Scipy, Matplotlib
-* **Embedded Systems**: STM32, Raspberry Pi, Arduino
+## Selected Research and Projects
 
-<br>
+### Asymmetric Feature Optimization for Recommendation
+Heriot-Watt University · Sep 2024 – Aug 2025  
+Advisor: [Wei Pang](https://researchportal.hw.ac.uk/en/persons/wei-pang)
 
-Honors and Awards
-======
-* **Innovation and Entrepreneurship Scholarship**, 2022  
-* **Outstanding Youth Volunteer Award**, 2022
+- Developed Asymmetric Graph Convolution (AsymG), using Finsler geometry to model asymmetric relationships with spatial and spectral variants.
+- Integrated AsymG into recommendation models and evaluated ranking performance across five datasets.
 
-<br>
+### Honours Dissertation: Directed Graph Modeling for Academic Recommendation
+Heriot-Watt University · Sep 2024 – May 2025
 
-[Download Resume](https://raw.githubusercontent.com/juyujing/juyujing.github.io/master/files/Resume.pdf){: .btn .btn--success}
+- Investigated directed and heterogeneous graph structures for academic paper recommendation, preserving citation direction and author–paper relations.
+- Evaluated ranking quality using Recall, NDCG, Hit Rate, and Precision@K.
 
-<br><br><br><br>
+[Project](https://github.com/juyujing/Graduation-Project)
 
+### Group Recommendation
+Ocean University of China · Jun 2023 – Jun 2024
+
+- Built a GPU-accelerated multitask hypergraph recommendation system for item and participant prediction.
+- Combined sparse graph propagation, gated experts, ranking objectives, and negative sampling.
+
+[Project](https://github.com/juyujing/HyperGCN)
+
+### Biomimetic Hexapod Robot Development
+Ocean University of China · Feb 2024 – May 2024
+
+- Designed a hexapod robot for visually guided target capture, integrating object recognition and motion planning.
+
+[Project](https://github.com/juyujing/Capturer)
+
+### Open Source Graph Modeling Library
+Florida State University · Research internship, starting Jun 2024
+
+- Integrated graph-based mathematical models and investigated computational efficiency.
+
+[Lab](https://yushundong.github.io//students) · [Project](https://github.com/juyujing/GrOVe)
+
+## Technical Skills
+
+- **Post-training:** SFT, GRPO, RLHF/RLVR, PPO, DPO, SAC; agent trajectories and long-horizon agents.
+- **Training frameworks:** PyTorch, VeRL, DeepSpeed, Megatron-LM, Slime, OpenRLHF, LLaMA-Factory, FSDP, LoRA/QLoRA.
+- **LLM systems:** RAG, vector retrieval, multi-agent systems, distributed inference, evaluation.
+- **Programming and systems:** Python, C++, Java, SQL, NumPy, pandas, Linux, Git, Docker, GPU clusters.
+- **Robotics:** ROS, NVIDIA Jetson, STM32, Raspberry Pi, Arduino.
+
+## Honors and Awards
+
+- Innovation and Entrepreneurship Scholarship, 2022
+- Outstanding Youth Volunteer Award, 2022
