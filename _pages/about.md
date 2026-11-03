@@ -11,13 +11,13 @@ I'm **Yujing Ju**, a Research Assistant at the [University of Florida](https://w
 
 My work focuses on **reinforcement learning for LLMs, long-horizon agents, and reliable model evaluation**. I connect training workflows with domain-specific reasoning and tool use, from investment assistants to privacy-sensitive research.
 
-I am currently an **Algorithm Engineer Intern at Pharmaron** (October 2026–present). Previously, I worked on **AIME, Hithink RoyalFlush's North America investment assistant**, as an Algorithm Engineer Intern (September–October 2026).
+I am currently an **Algorithm Engineer Intern at Pharmaron** (October 2026–present). Previously, I worked on **AIME Investment Assistant (AInvest)** at Hithink RoyalFlush (September–October 2026).
 
 I graduated from [Heriot-Watt University](https://www.hw.ac.uk/) in May 2025 with a bachelor's degree in Robotics and First Class Honours (GPA: 3.85).
 
 ## Selected Work
 
-### AIME — U.S. Equity Investment Assistant
+### AIME Investment Assistant (AInvest)
 **Hithink RoyalFlush (Tonghuashun) · Algorithm Engineer Intern · Sep–Oct 2026**
 
 - Applied **GRPO-based post-training** to U.S. equity selection, financial reasoning, and investment recommendations.
@@ -42,9 +42,9 @@ I graduated from [Heriot-Watt University](https://www.hw.ac.uk/) in May 2025 wit
 
 ## Technical Focus
 
-**Post-training:** SFT, GRPO, RLHF/RLVR, PPO, DPO, SAC.  
-**Training systems:** PyTorch, VeRL, DeepSpeed, Megatron-LM, Slime, OpenRLHF, LLaMA-Factory, FSDP, LoRA/QLoRA.  
-**Agents and evaluation:** agent trajectories, long-horizon planning, tool use, multi-agent systems, RAG, and LLM evaluation.  
+**Post-training:** SFT, GRPO, RLHF/RLVR, PPO, DPO, SAC.  
+**Training systems:** PyTorch, VeRL, DeepSpeed, Megatron-LM, Slime, OpenRLHF, LLaMA-Factory, FSDP, LoRA/QLoRA.  
+**Agents and evaluation:** agent trajectories, long-horizon planning, tool use, multi-agent systems, RAG, and LLM evaluation.  
 **Programming:** Python, C++, Java, SQL, Linux, Git, and GPU clusters.
 
 [View CV](/cv/) · [LinkedIn](https://www.linkedin.com/in/juyujing/) · [GitHub](https://github.com/juyujing) · [YouTube](https://www.youtube.com/@dyodn)
