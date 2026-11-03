@@ -21,9 +21,9 @@ Beijing, China · Oct 2026 – Present
 
 ### Algorithm Engineer Intern — Hithink RoyalFlush (Tonghuashun)
 Hangzhou, China · Sep 2026 – Oct 2026  
-**AIME — North America Investment Assistant**
+**AIME Investment Assistant**
 
-- Applied **GRPO-based LLM post-training** to U.S. equity selection and investment recommendations, adapting research from VTA, StockR1, AlphaQuanter, SEP, and GRPO Financial Analyst to financial reasoning and decision-making.
+- Applied **GRPO-based LLM post-training** to U.S. equity selection and investment recommendations for AInvest, adapting research from VTA, StockR1, AlphaQuanter, SEP, and GRPO Financial Analyst to financial reasoning and decision-making.
 - Developed **agent trajectories and long-horizon workflows** for multi-step analysis, tool use, and investment decisions; incorporated time-series reasoning, verifiable forecast actions, and explainable stock selection into training and evaluation.
 - Designed U.S. equity trading strategies and paper-trading simulations, connecting stock recommendations, portfolio decisions, and simulated execution to support repeatable strategy experiments.
 - Used **VeRL, DeepSpeed, Megatron-LM, and Slime** for post-training experiments; additional practice covered OpenRLHF, LLaMA-Factory, RLHF/RLVR, PPO, DPO, and SAC.
