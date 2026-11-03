@@ -28,7 +28,11 @@ Beijing, China · Oct 2026 – Present
 Hangzhou, China · Aug 2026 – Oct 2026  
 **AIME Investment Assistant**
 
-- Applied **GRPO post-training** to AInvest U.S. equity recommendations, combining time-series reasoning, verifiable forecast actions, and explainable stock selection; improved investment-task success by **5–10 percentage points (placeholder; pending validation)**. - Optimized long-horizon agent trajectories for market-data retrieval, evidence synthesis, and tool use; evaluated invalid calls and multi-step task completion, reducing invalid tool-call rate by **17–33% relative (placeholder; pending validation)**. - Designed quantitative stock-selection strategies and paper-trading simulations linking screening, portfolio decisions, and simulated execution; optimized training and rollout with VeRL, DeepSpeed, Megatron-LM, and Slime, reaching **1.2–1.4× baseline throughput (placeholder; pending validation)**.### Research Assistant — University of Florida
+- Applied **GRPO post-training** to AInvest U.S. equity recommendations, combining time-series reasoning, verifiable forecast actions, and explainable stock selection; improved investment-task success by **5–10 percentage points (placeholder; pending validation)**.
+- Optimized long-horizon agent trajectories for market-data retrieval, evidence synthesis, and tool use; evaluated invalid calls and multi-step task completion, reducing invalid tool-call rate by **17–33% relative (placeholder; pending validation)**.
+- Designed quantitative stock-selection strategies and paper-trading simulations linking screening, portfolio decisions, and simulated execution; optimized training and rollout with VeRL, DeepSpeed, Megatron-LM, and Slime, reaching **1.2–1.4× baseline throughput (placeholder; pending validation)**.
+
+### Research Assistant — University of Florida
 Gainesville, FL · Part-time · Aug 2025 – Present
 
 - Conduct research on LLM evaluation, privacy-preserving fine-tuning, retrieval, and multi-agent systems.
