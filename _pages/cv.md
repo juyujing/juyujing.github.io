@@ -11,7 +11,7 @@ redirect_from:
 ## Education
 
 - **University of Florida**, Gainesville, FL — PhD program in Biological and Medical Sciences; Master-en-route. Aug 2025 – Jan 2027 (expected). Research focus: AI and large language models.
-- **Heriot-Watt University**, Edinburgh, UK — Bachelor's degree in Robotics. Sep 2021 – May 2025. GPA: 3.85; First Class Honours.
+- **Heriot-Watt University**, Edinburgh, UK — Bachelor's degree in Robotics. Sep 2021 – May 2025. First Class Honours.
 - **Ocean University of China**, Qingdao, China — Computer Science. Sep 2021 – May 2024.
 
 ## Experience
@@ -19,7 +19,7 @@ redirect_from:
 ### Algorithm Engineer Intern — Pharmaron
 Beijing, China · Oct 2026 – Present
 
-### Algorithm Engineer Intern — Hithink RoyalFlush (Tonghuashun)
+### Algorithm Engineer Intern — Hithink RoyalFlush
 Hangzhou, China · Sep 2026 – Oct 2026  
 **AIME Investment Assistant**
 
