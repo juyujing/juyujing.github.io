@@ -39,3 +39,49 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Academic profile: restrained color, generous rhythm, accessible motion. */
+:root { --profile-ink: #233447; --profile-muted: #607180; --profile-accent: #286b70; --profile-line: #dfe7e8; }
+html { scroll-behavior: smooth; }
+body { color: #344451; background: linear-gradient(145deg, #f8faf9 0%, #fff 48%, #f4f7fa 100%); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.75; }
+a { color: var(--profile-accent); transition: color .22s ease, background-color .22s ease, box-shadow .22s ease; text-underline-offset: .18em; }
+a:hover { color: #17494e; }
+a:focus-visible, button:focus-visible { outline: 2px solid #286b70; outline-offset: 4px; border-radius: 4px; }
+.masthead { background: rgba(255,255,255,.94); border-bottom: 1px solid var(--profile-line); }
+.masthead__inner-wrap { padding-top: 1.2em; padding-bottom: 1.2em; }
+.greedy-nav { background: transparent; }
+.greedy-nav a { color: var(--profile-ink); font-size: .88em; font-weight: 500; }
+.greedy-nav .visible-links a:before { background: var(--profile-accent); height: 2px; border-radius: 2px; }
+#main { max-width: 1200px; margin-top: 2.8em; }
+.sidebar { opacity: 1; }
+.author__avatar img { border-radius: 24px; padding: 0; border: 1px solid var(--profile-line); box-shadow: 0 8px 28px rgba(35,52,71,.07); }
+.author__name { color: var(--profile-ink); letter-spacing: -.025em; }
+.author__bio { color: var(--profile-muted); line-height: 1.65; font-size: .92em; }
+.author__urls { font-size: .88em; }
+.page__title { font-family: Georgia, "Times New Roman", serif; color: var(--profile-ink); font-weight: 500; letter-spacing: -.035em; margin-bottom: .8em; }
+.page__content, .archive { font-size: .95em; }
+.page__content h2, .archive h2 { color: var(--profile-ink); font-family: Georgia, "Times New Roman", serif; font-weight: 500; letter-spacing: -.02em; border-bottom-color: var(--profile-line); padding-bottom: .4em; margin-top: 2em; }
+.page__content h3, .archive h3 { color: var(--profile-ink); font-weight: 600; line-height: 1.4; }
+.profile-intro { padding: 2.3rem; border: 1px solid var(--profile-line); border-radius: 24px; background: linear-gradient(125deg, #edf5f3, #f4f7fb 72%, #fff); }
+.page__content .eyebrow { font: 600 .66rem/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: .15em; color: var(--profile-accent); margin: 0 0 1em; }
+.page__content .intro-title { font-family: Georgia, "Times New Roman", serif; font-size: 2.3rem; line-height: 1.16; letter-spacing: -.04em; border: 0; padding: 0; margin: 0 0 .7em; }
+.intro-lead { font-size: 1.06em; color: #334c5c; }
+.profile-intro p { font-size: .94em; }
+.profile-links, .project-links { display: flex; flex-wrap: wrap; align-items: center; gap: 1.2em; font-size: .82em; }
+.profile-links { margin-top: 1.8em; }
+.profile-links a, .project-links a { text-decoration: none; }
+.profile-links .profile-button { padding: .7em 1.1em; border-radius: 12px; color: white; background: #285b65; box-shadow: 0 4px 12px rgba(40,91,101,.12); }
+.profile-links .profile-button:hover { background: #1e4853; box-shadow: 0 6px 18px rgba(40,91,101,.19); }
+.profile-section { margin-top: 3rem; }
+.profile-section .section-heading h2 { margin-top: 0; }
+.work-card { padding: 1.6rem 1.8rem; margin: 1.1rem 0; border: 1px solid var(--profile-line); border-radius: 18px; background: rgba(255,255,255,.86); box-shadow: 0 3px 16px rgba(35,52,71,.025); transition: border-color .25s ease, box-shadow .25s ease; }
+.work-card:hover { border-color: #afc9cb; box-shadow: 0 8px 26px rgba(35,52,71,.055); }
+.work-card h3 { margin: .4em 0 .65em; font-size: 1.13em; }
+.work-card p { margin-bottom: .9em; }
+.page__content .work-meta { font-size: .7rem; color: var(--profile-muted); letter-spacing: .02em; margin: 0; }
+.work-detail { font-size: .88em; color: var(--profile-muted); }
+.topic-tags { display: flex; flex-wrap: wrap; gap: .45em; margin-top: 1em; }
+.topic-tags span { padding: .3em .75em; border-radius: 999px; background: #eff5f4; color: #47666b; font-size: .67rem; line-height: 1.6; }
+.page__footer { background: #eef3f4; color: #63717e; border-top: 1px solid var(--profile-line); }
+@media (max-width: 767px) { #main { margin-top: 1.5em; } .profile-intro { padding: 1.4rem; border-radius: 18px; } .page__content .intro-title { font-size: 1.85rem; } .work-card { padding: 1.25rem; } .profile-links { gap: .9em; } .profile-section { margin-top: 2rem; } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *:before, *:after { transition: none !important; animation: none !important; } }
