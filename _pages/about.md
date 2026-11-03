@@ -11,16 +11,16 @@ I'm **Yujing Ju**, a Research Assistant at the [University of Florida](https://w
 
 My work focuses on **reinforcement learning for LLMs, long-horizon agents, and reliable model evaluation**. I connect training workflows with domain-specific reasoning and tool use, from investment assistants to privacy-sensitive research.
 
-I am currently an **Algorithm Engineer Intern at Pharmaron** (October 2026–present). Previously, I worked on **AIME Investment Assistant (AInvest)** at Hithink RoyalFlush (September–October 2026).
+I am currently an **Algorithm Engineer Intern at Pharmaron** (October 2026–present). Previously, I worked on **AIME Investment Assistant** at Hithink RoyalFlush (September–October 2026).
 
 I graduated from [Heriot-Watt University](https://www.hw.ac.uk/) in May 2025 with a bachelor's degree in Robotics and First Class Honours (GPA: 3.85).
 
 ## Selected Work
 
-### AIME Investment Assistant (AInvest)
+### AIME Investment Assistant
 **Hithink RoyalFlush (Tonghuashun) · Algorithm Engineer Intern · Sep–Oct 2026**
 
-- Applied **GRPO-based post-training** to U.S. equity selection, financial reasoning, and investment recommendations.
+- Applied **GRPO-based post-training** to U.S. equity selection, financial reasoning, and investment recommendations for AInvest.
 - Developed **agent trajectories and long-horizon workflows** for multi-step market analysis, tool use, and investment decisions.
 - Adapted research from **VTA, StockR1, AlphaQuanter, SEP, and GRPO Financial Analyst**, incorporating time-series reasoning, verifiable forecast actions, and explainable stock selection.
 - Designed quantitative trading strategies and **paper-trading simulations** for U.S. equities.
