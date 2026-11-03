@@ -25,7 +25,7 @@ Beijing, China · Oct 2026 – Present
 - Optimize distributed training with **Megatron-LM, DeepSpeed, and Triton**, combining parameter/optimizer-state sharding, model parallelism, and GPU-kernel optimization for MoE workloads.
 
 ### Algorithm Engineer Intern — Hithink RoyalFlush
-Hangzhou, China · Sep 2026 – Oct 2026  
+Hangzhou, China · Aug 2026 – Oct 2026  
 **AIME Investment Assistant**
 
 - Applied **GRPO-based LLM post-training** to U.S. equity selection and investment recommendations for AInvest, adapting research from VTA, StockR1, AlphaQuanter, SEP, and GRPO Financial Analyst to financial reasoning and decision-making.
