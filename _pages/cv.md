@@ -19,6 +19,11 @@ redirect_from:
 ### Algorithm Engineer Intern — Pharmaron
 Beijing, China · Oct 2026 – Present
 
+- Conduct small-model scaling experiments to extrapolate larger-run performance and guide model size, training-token budgets, and compute allocation for pharmaceutical LLMs; target competitive general benchmarks and expert-level domain capabilities.
+- Investigate **Engram-augmented MoE scaling laws**, jointly varying active expert parameters, conditional-memory capacity, and training data; study compute–memory allocation under matched parameter and FLOPs budgets.
+- Study **constant-time n-gram lookup** and the separation of static knowledge retrieval from neural computation to expand knowledge capacity with limited added compute and preserve neural capacity for reasoning.
+- Optimize distributed training with **Megatron-LM, DeepSpeed, and Triton**, combining parameter/optimizer-state sharding, model parallelism, and GPU-kernel optimization for MoE workloads.
+
 ### Algorithm Engineer Intern — Hithink RoyalFlush
 Hangzhou, China · Sep 2026 – Oct 2026  
 **AIME Investment Assistant**
